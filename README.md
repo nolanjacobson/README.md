@@ -7,7 +7,7 @@
 - ⚡ I am a strong believer in decentralization and peer-2-peer technologoies
 - ✉️ I am a quick learner with a strong desire to solve challenging problems
 - ✉️ You can see more about me and contact me at [nolanjacobson.com](https://nolanjacobson.com)
-- 
+
 **Current Status**
 
 - Porting Chainlink decentralized data aggregation Solidity smart contracts to Rust using `near_sdk`
