@@ -7,11 +7,11 @@
 - ⚡ I am a strong believer in decentralization and peer-2-peer technologoies
 - ✉️ You can see more about me and contact me at [nolanjacobson.com](https://nolanjacobson.com)
 
-**Current Status**
+**Recent Developments**
 
-- Porting Chainlink decentralized data aggregation Solidity smart contracts to Rust using `near_sdk`
-- Exploring The Graph protocol
-- Diving deeper and deeper into Chainlink
+- Extended Ethers.js to the UTXO capabilities of QTUM (QtumWallet, QtumProvider, QtumContractFactory)
+- Developed a QtumTx Chainlink Adapter to post off-chain data on QTUM
+- Ported Chainlink decentralized data aggregation (FluxAgg) Solidity smart contracts to NEAR 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nolanjacobson)
 
