@@ -4,6 +4,7 @@
 
 **Recent Dev Work**
 
+- Building blockchain infrastructure & tooling @Autograph-Core
 - Extended Ethers.js to the UTXO capabilities of QTUM (QtumWallet, QtumProvider, QtumContractFactory)
 - Developed a QtumTx Chainlink Adapter to post off-chain data on QTUM
 - Ported Chainlink decentralized data aggregation (FluxAgg) Solidity smart contracts to NEAR 
