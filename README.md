@@ -9,6 +9,5 @@
 - Developed a QtumTx Chainlink Adapter to post off-chain data on QTUM
 - Ported Chainlink decentralized data aggregation (FluxAgg) Solidity smart contracts to NEAR 
 
-![](https://visitor-badge.glitch.me/badge?page_id=nolanjacobson)
 
 
