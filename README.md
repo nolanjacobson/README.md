@@ -4,6 +4,7 @@
 
 **Recent Dev Work**
 
+- Building Solana tooling and programs in Rust @exo-tech-xyz
 - Built a decentralized disributed oracle node for scraping social media data in Golang @Masa-Finance
 - Built Solidity Smart Contracts for a Data Marketplace @Masa-Finance
 - Building blockchain infrastructure & tooling @Autograph-Core
